@@ -19,7 +19,7 @@ ul{
 .nav-link{
 	color: black;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 600; 
 }
 .nav-link:hover{ 
 	color: #c0392b !important;
@@ -364,6 +364,10 @@ button:hover{
 	}
 	.call{
 		margin-top: 10px;
+	}
+	.form-search{
+		width: 100%;
+    	justify-content: center
 	}
 	.form-control{
 		width: 100px !important;
