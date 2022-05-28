@@ -80,7 +80,9 @@ ul{
 	display:flex;
 }
 .cate{
-	margin: 75px auto;
+	margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: -10px;
 }
 .topCate-wrap{
 	width: 25%;
@@ -93,8 +95,10 @@ ul{
 	box-shadow: 0px 0px 20px 0px rgb(161 161 161);
 }
 .More-cate{
-	
-	margin: 75px auto;
+	margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: -15px;
 }
 .cont-title{
 	font-weight: 600;
@@ -127,11 +131,16 @@ a:hover{
 	display: flex;
 }
 .main2-cate{
-	margin: 75px auto
+	margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: -10px;
 }
 .main2-caBrMi{
 	display: flex;
-	margin: 75px auto;
+	margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: -15px;
 }
 .main2-caBrMi h4{
 	padding: 0 10px;
@@ -186,7 +195,7 @@ a:hover{
 }
 /*main3*/
 .main3{
-	padding: 50px 0 !important;
+	padding: 0px 0 !important;
 }
 .main3-btn{
 	margin-top: 20px;
@@ -196,10 +205,15 @@ a:hover{
 	display:flex;
 }
 .main3_2-newPro{
-	margin: 75px auto;
+	margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: -10px;
 }
 .More-pro{
-	margin: 75px auto;
+	margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: auto;
+    margin-right: -15px;
 }
 /*main4*/
 .main4{
@@ -413,6 +427,9 @@ button:hover{
 	}
 	.btn-subcribe{
 		margin-top: 10px;
+	}
+	.mail-icon{
+		display: none;
 	}
 }
 @media screen and (max-width: 420px){
